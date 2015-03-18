@@ -1,0 +1,5 @@
+build/
+*.opensdf
+*.psess
+*.sdf
+*.vsp
